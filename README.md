@@ -2,7 +2,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## Enhance Mortgage Loan Approval Process
 
-<img src="Miscellaneous/EnhancedDecisionTree.png"
+<img src="Miscellaneous/process.png"
      style="float: left; margin-right: 0px;" />
 
 ---
