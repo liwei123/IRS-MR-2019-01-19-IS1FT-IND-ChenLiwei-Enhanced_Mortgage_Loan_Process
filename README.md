@@ -15,8 +15,12 @@ The data was further mined using Orange3 and the following decision tree was obt
 <img src="Miscellaneous/EnhancedDecisionTree.png"
      style="float: left; margin-right: 0px;" />
 
-As seen in the above diagram, whether or not the individual has an existing loan can have an impact on whether the mortgage loan is approved if the individual does not own a house nor have a job.     
-The decision table was further enhanced to incorporate the mentioned point.
+As seen in the above diagram, given that the individual does not own a house nor have a job, having an existing loan can have an impact on the approval of the mortgage loan.
+A new data object named 'Loan History' was created, which includes the attribute hasExistingLoan. Subsequently, it is added as a subsection in Application form, as seen in the image below. 
+<img src="Miscellaneous/loanhistory.png"
+     style="float: left; margin-right: 0px;" />
+
+The above subsection will obtain the information about applicant's existing loan and allow us to further refine existing decision table to incorporate the knowledge gained from the decision tree.
 <img src="Miscellaneous/EnhancedDT.png"
      style="float: left; margin-right: 0px;" />
 
