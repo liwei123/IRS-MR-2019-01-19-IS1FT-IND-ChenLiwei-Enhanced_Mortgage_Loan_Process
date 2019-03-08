@@ -33,36 +33,16 @@ The above subsection will obtain the information about applicant's existing loan
 | Chen Liwei | A0101217B | E0384319@nus.edu.sg |
 
 ---
-## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-Not Applicable
-
----
-## SECTION 5 : USER GUIDE
+## SECTION 4 : USER GUIDE
 
 1. Install KIE Workbench
 2. Clone this project
 3. Unzip example-Mortgage_Process.zip in SystemCode folder and import project into KIE workbench
 
 ---
-## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/ProjectReport/Project%20Report%20HDB-BTO.pdf>
-
-**Recommended Sections for Project Report / Paper:**
-- Executive Summary / Paper Abstract
-- Sponsor Company Introduction (if applicable)
-- Business Problem Background
-- Project Objectives & Success Measurements
-- Project Solution (To detail domain modelling & system design.)
-- Project Implementation (To detail system development & testing approach.)
-- Project Performance & Validation (To prove project objectives are met.)
-- Project Conclusions: Findings & Recommendation
-- List of Abbreviations (if applicable)
-- References (if applicable)
-
----
-## SECTION 7 : MISCELLANEOUS
+## SECTION 5 : MISCELLANEOUS
 
 ### S-MR bank loan example v003.csv
 * Enhanced csv with loan history data
