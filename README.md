@@ -53,7 +53,7 @@ Use/Test Case 1: Applicant does not have a job, does not own a house and does no
 <img src="Miscellaneous/UseCases/UseCase1Step3.png"
      style="float: left; margin-right: 0px; height:200px" />	
 * 1st stage Approved: $200,000 Mortgage Amount: within limit 
-** mortgage amount 200,000 >= property sale price 250,000 – down payment 50,000
+ (mortgage amount 200,000 >= property sale price 250,000 – down payment 50,000)
 * 2nd stage Approved: inlimitMR checked: applicant does not have any existing loan
 
 ---
