@@ -24,6 +24,7 @@ The above subsection will obtain the information about applicant's existing loan
 <img src="Miscellaneous/EnhancedDT.png"
      style="float: left; margin-right: 0px;" />
 
+To validate the new business rules in the above decision table, please refer to section 5 below for sample use case.
 
 ---
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
@@ -42,7 +43,22 @@ The above subsection will obtain the information about applicant's existing loan
 
 ---
 
-## SECTION 5 : MISCELLANEOUS
+## SECTION 5 : Sample Input/Output
+
+Use/Test Case 1: Applicant does not have a job, does not own a house and does not have any existing loan.
+<img src="Miscellaneous/UseCases/UseCase1Step1.png"
+     style="float: left; margin-right: 0px; height:200px" />	
+<img src="Miscellaneous/UseCases/UseCase1Step2.png"
+     style="float: left; margin-right: 0px; height:200px" />	
+<img src="Miscellaneous/UseCases/UseCase1Step3.png"
+     style="float: left; margin-right: 0px; height:200px" />	
+1st stage Approved: $200,000 Mortgage Amount: within limit 
+mortgage amount 200,000 >= property sale price 250,000 – down payment 50,000
+2nd stage Approved: inlimitMR checked: applicant does not have any existing loan
+
+---
+
+## SECTION 6 : MISCELLANEOUS
 
 ### S-MR bank loan example v003.csv
 * Enhanced csv with loan history data
